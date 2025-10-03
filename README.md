@@ -269,6 +269,8 @@ This project is licensed under the MIT License.
 ---
 
 **Made with ❤️ in Bangladesh**
-#   s m a r t - d e l i v e r y - m a n a g e m e n t - s y s t e m  
- #   s m a r t - d e l i v e r y - m a n a g e m e n t - s y s t e m  
+#   s m a r t - d e l i v e r y - m a n a g e m e n t - s y s t e m 
+ 
+ #   s m a r t - d e l i v e r y - m a n a g e m e n t - s y s t e m 
+ 
  
